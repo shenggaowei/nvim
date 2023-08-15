@@ -41,6 +41,7 @@
   "onedark.nvim": { "branch": "master", "commit": "09b71d84bd2524438e48c0aa5b54d855cc72af32" },
   "persistence.nvim": { "branch": "main", "commit": "4b8051c01f696d8849a5cb8afa9767be8db16e40" },
   "plenary.nvim": { "branch": "master", "commit": "267282a9ce242bbb0c5dc31445b6d353bed978bb" },
+  "solarized.nvim": { "branch": "master", "commit": "fe02ed49cc017cc93657bd6306a2624394611c69" },
   "telescope.nvim": { "branch": "master", "commit": "2d92125620417fbea82ec30303823e3cd69e90e8" },
   "todo-comments.nvim": { "branch": "main", "commit": "3094ead8edfa9040de2421deddec55d3762f64d1" },
   "tokyonight.nvim": { "branch": "main", "commit": "1ee11019f8a81dac989ae1db1a013e3d582e2033" },
