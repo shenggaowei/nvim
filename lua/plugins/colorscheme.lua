@@ -1,9 +1,10 @@
 return {
   { "navarasu/onedark.nvim" },
+  { "lifepillar/vim-solarized8" },
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "onedark",
+      colorscheme = "solarized8",
     },
   },
 }
